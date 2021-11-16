@@ -1,0 +1,8 @@
+.modalContainer{position:fixed; top: 0;left: 0;right: 0;bottom: 0;background:rgba(0,0,0,0.5); z-index:100; display: flex;align-items: center;justify-content: center;}
+.Modal { width: 500px; margin: 100px auto; border: 1px solid tan; padding: 10px; text-align: center; position:absolute; background-color: #fff; border-radius: 10px;} 
+.open{ display: block; } 
+.close{ display: none; }
+.header, .body, .footer{ padding: 5px; } 
+.header{ font-size: 1.2rem; font-weight: bold; } 
+.body{ font-size: 0.9rem; } 
+.footer{ display: flex; justify-content: flex-end; align-items: center; }

@@ -1,0 +1,4 @@
+.movie{border:1px solid #ddd; margin:2em auto; width:90%; }
+.movie:after{content:''; clear:both; display:block;}
+.movie img{float:left;}
+.movie .textArea{float:right; width:65%; padding:1em; line-height: 1.25em;}
